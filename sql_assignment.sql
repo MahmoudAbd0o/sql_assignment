@@ -1,5 +1,5 @@
 -- SQL Assignment
--- Author: Mahmoud Hossam
+-- Author: Mahmoud Abdo
 -- Repository: SQL-Assignment
 
 -- ============================================================
