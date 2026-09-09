@@ -30,4 +30,4 @@ These exercises were created to practice Python fundamentals and improve problem
 
 ## Author
 
-Mahmoud Hossam
+Mahmoud Abdo
